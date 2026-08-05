@@ -3,7 +3,7 @@
 <h3 align="center">Motivated by a passion for technology, innovation, and exploring every opportunity.</h3>
 
 <p align="center">
-  <img src="https://komarev.com" alt="andreim10 views" />
+  👤 <strong>andreim10</strong>
 </p>
 
 ---
@@ -18,29 +18,17 @@
 
 ### Skills, Languages and Tools:
 
-<p align="left">
-  <!-- Limbaje principale -->
-  <img src="https://simpleicons.org" width="40" height="40" alt="C" /> &nbsp;
-  <img src="https://simpleicons.org" width="40" height="40" alt="C++" /> &nbsp;
-  <img src="https://simpleicons.org" width="40" height="40" alt="Python" /> &nbsp;
-  <img src="https://simpleicons.org" width="40" height="40" alt="Git" /> &nbsp;
-  <img src="https://simpleicons.org" width="40" height="40" alt="Arduino" />
-</p>
+#### 💻 Programming Languages
+` C ` &nbsp; ` C++ ` &nbsp; ` Python ` &nbsp; ` C++17 (STL, regex) `
 
-<p align="left">
-  <!-- Data Science & ML -->
-  <img src="https://simpleicons.org" width="40" height="40" alt="Scikit-Learn" /> &nbsp;
-  <img src="https://simpleicons.org" width="40" height="40" alt="NumPy" /> &nbsp;
-  <img src="https://simpleicons.org" width="40" height="40" alt="Pandas" /> &nbsp;
-  <img src="https://simpleicons.org" width="40" height="40" alt="OpenCV" /> &nbsp;
-  <img src="https://simpleicons.org" width="40" height="40" alt="Jupyter" />
-</p>
+#### 🤖 AI / ML & Data Science
+` Scikit-Learn ` &nbsp; ` NumPy ` &nbsp; ` Pandas ` &nbsp; ` OpenCV ` &nbsp; ` Jupyter Notebook ` &nbsp; ` NLP (Naïve Bayes) `
+
+#### ⚙️ Hardware & Tools
+` Arduino ` &nbsp; ` ESP32 Microcontrollers ` &nbsp; ` Git ` &nbsp; ` GitHub `
 
 ---
 
 ### 🧠 Other Core Expertise:
-* **AI/ML:** NLP (Naïve Bayes)
 * **Applied Mathematics for ML:** Linear Algebra, Bayesian Inference, Gradient Descent
-* **Embedded & Hardware:** ESP32 Microcontrollers
-* **Tools & Systems:** GitHub, C++17 (STL, regex)
 * **Languages:** Romanian (Native), English (Advanced, CAE C1)
