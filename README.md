@@ -19,25 +19,21 @@
 ### Skills, Languages and Tools:
 
 <p align="left">
-  <!-- Programming Languages -->
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Python" />
+  <!-- Limbaje principale -->
+  <img src="https://simpleicons.org" width="40" height="40" alt="C" /> &nbsp;
+  <img src="https://simpleicons.org" width="40" height="40" alt="C++" /> &nbsp;
+  <img src="https://simpleicons.org" width="40" height="40" alt="Python" /> &nbsp;
+  <img src="https://simpleicons.org" width="40" height="40" alt="Git" /> &nbsp;
+  <img src="https://simpleicons.org" width="40" height="40" alt="Arduino" />
 </p>
 
 <p align="left">
-  <!-- AI / ML / Data Science -->
-  <img src="https://shields.io" alt="Scikit-Learn" />
-  <img src="https://shields.io" alt="NumPy" />
-  <img src="https://shields.io" alt="Pandas" />
-  <img src="https://shields.io" alt="OpenCV" />
-  <img src="https://shields.io" alt="Jupyter" />
-</p>
-
-<p align="left">
-  <!-- Embedded & Tools -->
-  <img src="https://shields.io" alt="Arduino" />
-  <img src="https://shields.io" alt="Git" />
+  <!-- Data Science & ML -->
+  <img src="https://simpleicons.org" width="40" height="40" alt="Scikit-Learn" /> &nbsp;
+  <img src="https://simpleicons.org" width="40" height="40" alt="NumPy" /> &nbsp;
+  <img src="https://simpleicons.org" width="40" height="40" alt="Pandas" /> &nbsp;
+  <img src="https://simpleicons.org" width="40" height="40" alt="OpenCV" /> &nbsp;
+  <img src="https://simpleicons.org" width="40" height="40" alt="Jupyter" />
 </p>
 
 ---
