@@ -19,7 +19,7 @@
 ### Skills, Languages and Tools:
 
 #### 💻 Programming Languages
-` C ` &nbsp; ` C++ ` &nbsp; ` Python ` &nbsp; ` C++17 (STL, regex) `
+` C ` &nbsp; ` C++ ` &nbsp; ` Python ` &nbsp; ` C++17 (STL, regex) ` &nbsp; ' C Embeded '
 
 #### 🤖 AI / ML & Data Science
 ` Scikit-Learn ` &nbsp; ` NumPy ` &nbsp; ` Pandas ` &nbsp; ` OpenCV ` &nbsp; ` Jupyter Notebook ` &nbsp; ` NLP (Naïve Bayes) `
