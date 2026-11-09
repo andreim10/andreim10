@@ -22,11 +22,8 @@
  <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" width="60" height="60" align="center" alt="C"> <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="60" height="60" align="center" alt="C++">  <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="60" height="60" align="center" alt="Python"> <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" width="60" height="60" align="center" alt="Matlab"> 
  ` C++17 (STL, regex) ` &nbsp; ` Embedded C` &nbsp;
 
-
-
-
 #### 🤖 AI / ML & Data Science
-` Scikit-Learn ` &nbsp; ` NumPy ` &nbsp; ` Pandas ` &nbsp; ` OpenCV ` &nbsp; ` Jupyter Notebook ` &nbsp; ` NLP (Naïve Bayes) `
+` Scikit-Learn ` &nbsp; ` NumPy ` &nbsp; ` Pandas ` &nbsp; ` OpenCV ` &nbsp; <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="60" height="60" align="center" alt="Jupyter Notebook"> ` NLP (Naïve Bayes) `&nbsp;
 
 #### ⚙️ Hardware & Tools
 ` Arduino ` &nbsp; ` ESP32 Microcontrollers ` &nbsp; ` Git ` &nbsp; ` GitHub `
