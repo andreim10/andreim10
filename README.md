@@ -19,7 +19,7 @@
 ### Skills, Languages and Tools:
 
 #### 💻 Programming Languages
-` C ` &nbsp; ` C++ ` &nbsp; ` Python ` &nbsp; ` C++17 (STL, regex) ` &nbsp; ` C Embeded ` &nbsp; [![C++](https://githubusercontent.com)](https://isocpp.org)
+` C ` &nbsp; ` C++ ` &nbsp; ` Python ` &nbsp; ` C++17 (STL, regex) ` &nbsp; ` C Embeded ` &nbsp; <img src="https://shields.io" alt="C++" />
 
 
 
