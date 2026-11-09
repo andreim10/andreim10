@@ -20,7 +20,8 @@
 
 #### 💻 Programming Languages
 ` C ` &nbsp; ` C++ ` &nbsp; ` Python ` &nbsp; ` C++17 (STL, regex) ` &nbsp; ` C Embeded ` &nbsp; 
- <img src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" width="40" height="40" align="center" alt="C++">
+ <img src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" width="60" height="40" align="center" alt="C++">
+ <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" width="60" height="40" align="center" alt="Python">
 
 
 
