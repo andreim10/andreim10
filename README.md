@@ -19,7 +19,7 @@
 ### Skills, Languages and Tools:
 
 #### 💻 Programming Languages 
- <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" width="80" height="80" align="center" alt="C">
+ <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" width="80" height="80" align="center" alt="C"> <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="80" height="80" align="center" alt="C++">
  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="80" height="80" align="center" alt="C++">
  <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" width="80" height="80" align="center" alt="Python">
  ` C++17 (STL, regex) ` &nbsp; ` Embedded C` &nbsp;
