@@ -19,8 +19,8 @@
 ### Skills, Languages and Tools:
 
 #### 💻 Programming Languages
-` C ` &nbsp; ` C++ ` &nbsp; ` Python ` &nbsp; ` C++17 (STL, regex) ` &nbsp; ` C Embeded ` &nbsp; ![description]([https://site.com/image.png](https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg)) &nbsp
-
+` C ` &nbsp; ` C++ ` &nbsp; ` Python ` &nbsp; ` C++17 (STL, regex) ` &nbsp; ` C Embeded ` &nbsp; 
+![description](https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png))
 
 
 
