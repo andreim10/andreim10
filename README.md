@@ -23,7 +23,7 @@
  ` C++17 (STL, regex) ` &nbsp; ` Embedded C` &nbsp;
 
 #### 🤖 AI / ML & Data Science
-` Scikit-Learn ` &nbsp; ` NumPy ` &nbsp; ` Pandas ` &nbsp; ` OpenCV ` &nbsp; <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="60" height="60" align="center" alt="Jupyter Notebook"> ` NLP (Naïve Bayes) `&nbsp;
+` Scikit-Learn ` &nbsp; ` NumPy ` &nbsp; ` Pandas ` &nbsp; <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" width="60" height="60" align="center" alt="C"> <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="60" height="60" align="center" alt="Jupyter Notebook"> ` OpenCV ` &nbsp; ` NLP (Naïve Bayes) `&nbsp;
 
 #### ⚙️ Hardware & Tools
 ` Arduino ` &nbsp; ` ESP32 Microcontrollers ` &nbsp; ` Git ` &nbsp; ` GitHub `
